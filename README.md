@@ -1,5 +1,5 @@
 # Alexnet_on_CIFAR10
-To read the first published research paper on ALEXNET click [here](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+To read the first published research paper on ALEXNET click [here](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf){target="_blank"}
 
 AlexNet is the architecture that got everybodys attention after ages.In the year 2012 it was the winner of then IMAGENET competition with 15.3% error rate for top five predictions.
 
