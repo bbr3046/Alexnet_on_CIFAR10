@@ -5,4 +5,4 @@ AlexNet is the architecture that got everybodys attention after ages.In the year
 
 AlexNet introduced the concepts of MaxPooling and DropOut and made ReLU activation function more popular.It also said that training of many layers is possible on the GPUs.
 ## Pictorial Representation of AlexNet
-![AlexNet]()
+![AlexNet](diagram.png)
